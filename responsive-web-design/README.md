@@ -8,4 +8,3 @@ FreeCodeCamp organizes its learning path through hands-on coding challenges and 
 - How to structure an HTML document from top to bottom
 - The importance of properly closing all tags (like `<html>`, which I initially forgot)
 - How to create semantic sections like `<header>`, `<main>`, and `<footer>`
-- How to link styles and format text using basic CSS
