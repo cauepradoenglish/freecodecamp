@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- Note: I was having trouble finishing this exercise because I forgot to close the <html> tag. 
+     Remember to always close it at the end of the file! -->
     <head>
     <title>Cauê's Recipes</title>
     <meta charset="UTF-8">
