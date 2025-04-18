@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+          <meta charset="UTF-8">
+          <meta name="description" content="This is the website of the Portugal Travel Agency">
+          <title>Travel Agency Page</title>
+         </head>
+    <body>
+      <h1>Portugal Travel Agency</h1>
+      <p>Discover exciting destinations with our packages.</p>
+       <h2>Packages</h2>
+       <p>Discover exciting destinations with our carefully curated travel packages. Whether you're looking for a relaxing beach getaway, a cultural city tour, or an adventurous mountain escape – we have something for every traveler.</p>
+      </body>
+      <ul>
+        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+        </ul>
+       <h2>Top Itineraries</h2>
+       <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="coliseum picture at night" />
+    </a>
+    <figcaption>Coliseum - Italy</figcaption>
+  </figure>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="beautiful montain" />
+    </a>
+    <figcaption>Alps - Peru</figcaption>
+  </figure>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Alogoas sea, in the beautiful Maragogi's Beach" />
+    </a>
+    <figcaption>Maragogi - Brazil</figcaption>
+  </figure>
+  </html>
