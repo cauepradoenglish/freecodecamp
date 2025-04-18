@@ -35,3 +35,11 @@
     <figcaption>Maragogi - Brazil</figcaption>
   </figure>
   </html>
+<!--
+Project: Travel Agency Page (FreeCodeCamp)
+Date: April 2025
+Notes:
+- Mistake fixed: corrected 'chatset' to 'charset'
+- Mistake fixed: added target="_blank" to links
+- Learned how to use <figure> and <figcaption> correctly
+-->
