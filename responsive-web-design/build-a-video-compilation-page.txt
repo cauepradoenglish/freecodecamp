@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+ <main>
+     <h1>Welcome to Our Video Compilation Page!</h1>
+     <p>Explore a curated collection of engaging and informative videos that cover a variety of topics. Whether you're here to learn, be inspired, or simply enjoy quality content, this page is your go-to hub for multimedia discovery. Sit back, press play, and enjoy the journey!</p>
+     <section>
+      <h2>Rick Astley - Never Gonna Give You Up</h2>
+      <p>The official video for “Never Gonna Give You Up” by Rick Astley. </p>
+      <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Rick Astley - Never Gonna Give You Up"
+      width="300"
+      height="200">
+          </iframe>
+         </section>
+     <section>
+       <h2>Bohemian Rhapsody - The Muppets</h2>
+       <p>The Muppets' Musical Gang is back at it!</p>
+       <iframe src="https://www.youtube.com/embed/tgbNymZ7vqY" title="Bohemian Rhapsody | Muppet Music Video | The Muppets"
+      width="300"
+      height="200">
+          </iframe>
+         </section>
+     <section>
+      <h2>React JS - React Tutorial for Beginners</h2>
+      <p>Get up & running with the most popular JavaScript library in the world! </p>
+      <iframe src="https://www.youtube.com/embed/Ke90Tje7VS0" title="React JS - React Tutorial for Beginners"
+      width="300"
+      height="200">
+          </iframe>
+         </section>
+     </main>
+</body>
+
+</html>
